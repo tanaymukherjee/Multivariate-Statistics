@@ -9,3 +9,7 @@ The Info.md inside the folder - 'code' will have info about the questions that a
 
 The SAS code were run on the free to use SAS Unoversity edition. Anyone interested can go to the below link and selected the OS they are using and then follow the guidelines:
 - https://www.sas.com/en_us/software/university-edition/download-software.html
+
+Learn about each of the 4 MANOVA Test from the link below:
+Namely - Wilk's Test, Roy's test, Pillais' Test and Lawley - Hotelling's Test.
+- https://www.hindawi.com/journals/cmmm/2019/2173638/

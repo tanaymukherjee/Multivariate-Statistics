@@ -23,18 +23,8 @@ All ques - 5.11; 5.14 (a); 5.16 (a); 5.22.
 - code: Hotelling T2 test on Broncus data.sas
 - data: T5_10_BRONCUS.dat
 
+
 ### Ques from chapter 6:
-All ques - 10.14 (a), (b), (c), (d); 10.17 (a), (b), (c), (d)
-
-```10.14 (a), (b), (c), (d)```
-- code: Testing multivariate regression statistics.sas
-- data: T6_17_FISH.DAT
-
-```10.17 (a), (b), (c), (d)```
-- code:
-- data:
-
-### Ques from chapter 10:
 All ques - 6.6; 6.27 (a), (c), (d); 6.28 (a).
 
 ```6.27 (a), (c), (d)```
@@ -44,5 +34,16 @@ All ques - 6.6; 6.27 (a), (c), (d); 6.28 (a).
 ```6.28 (a)```
 - code: Test effects of Manova test.sas
 - data: T6_18_SNAPBEAN.DAT
+
+
+### Ques from chapter 10:
+All ques - 10.14 (a), (b), (c), (d); 10.17 (a), (b), (c), (d).
+```10.14 (a), (b), (c), (d)```
+- code: Testing multivariate regression statistics.sas
+- data: T3_4_DIABETES.DAT
+
+```10.17 (a), (b), (c), (d)```
+- code:
+- data:
 
 NOTE: The book being used and the notes from the Prof are not shared due to license and copyright issues. Books can be purchased or downloaded by the readers. Details for the same is mentioned within the README.md section in the root folder.

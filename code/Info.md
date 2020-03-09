@@ -38,6 +38,7 @@ All ques - 6.6; 6.27 (a), (c), (d); 6.28 (a).
 
 ### Ques from chapter 10:
 All ques - 10.14 (a), (b), (c), (d); 10.17 (a), (b), (c), (d).
+
 ```10.14 (a), (b), (c), (d)```
 - code: Testing multivariate regression statistics.sas
 - data: T3_4_DIABETES.DAT

@@ -24,6 +24,17 @@ All ques - 5.11; 5.14 (a); 5.16 (a); 5.22.
 - data: T5_10_BRONCUS.dat
 
 ### Ques from chapter 6:
+All ques - 10.14 (a), (b), (c), (d); 10.17 (a), (b), (c), (d)
+
+```10.14 (a), (b), (c), (d)```
+- code: Testing multivariate regression statistics.sas
+- data: T6_17_FISH.DAT
+
+```10.17 (a), (b), (c), (d)```
+- code:
+- data:
+
+### Ques from chapter 10:
 All ques - 6.6; 6.27 (a), (c), (d); 6.28 (a).
 
 ```6.27 (a), (c), (d)```

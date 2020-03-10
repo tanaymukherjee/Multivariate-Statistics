@@ -44,7 +44,7 @@ All ques - 10.14 (a), (b), (c), (d); 10.17 (a), (b), (c), (d).
 - data: T3_4_DIABETES.DAT
 
 ```10.17 (a), (b), (c), (d)```
-- code:
-- data:
+- code: Testing multivariate regression statistics and partial regression.sas
+- data: T7_1_SEISHU.DAT
 
 NOTE: The book being used and the notes from the Prof are not shared due to license and copyright issues. Books can be purchased or downloaded by the readers. Details for the same is mentioned within the README.md section in the root folder.

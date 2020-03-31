@@ -13,15 +13,15 @@ All ques - 5.11; 5.14 (a); 5.16 (a); 5.22.
 
 ```5.14 (a)```
 - code: Hotelling T2 test on Bone data.sas
-- data: T3_6_BONE.dat
+- data: T3_6_BONE.DAT
 
 ```5.16```
 - code: Hotelling T2 test on Fbeetles data.sas
-- data: T5_5_FBEETLES.dat
+- data: T5_5_FBEETLES.DAT
 
 ```5.22```
 - code: Hotelling T2 test on Broncus data.sas
-- data: T5_10_BRONCUS.dat
+- data: T5_10_BRONCUS.DAT
 
 
 ### Ques from chapter 6:
@@ -46,5 +46,26 @@ All ques - 10.14 (a), (b), (c), (d); 10.17 (a), (b), (c), (d).
 ```10.17 (a), (b), (c), (d)```
 - code: Testing multivariate regression statistics and partial regression.sas
 - data: T7_1_SEISHU.DAT
+
+
+### Ques from chapter 8:
+All ques - 8.8 (a), (b), (c), (d); 8.11 (a), (b), (c), (e).
+
+```8.8 (a), (b), (c), (d)```
+- code: Discriminant function on Fbeetles data.sas
+- data: T5_5_FBEETLES.DAT
+
+```8.11 (a), (b), (c), (e)```
+- code: Standardized coefficients on Fish data.sas
+- data: T6_17_FISH.DAT
+
+
+### Ques from chapter 9:
+All ques - 9.10 (a), (b), (c), (d).
+
+```9.10 (a), (b), (c), (d)```
+- code: Classification analysis on Fish data.sas
+- data: T6_17_FISH.DAT
+
 
 NOTE: The book being used and the notes from the Prof are not shared due to license and copyright issues. Books can be purchased or downloaded by the readers. Details for the same is mentioned within the README.md section in the root folder.

@@ -68,4 +68,28 @@ All ques - 9.10 (a), (b), (c), (d).
 - data: T6_17_FISH.DAT
 
 
+### Ques from chapter 12:
+All ques - 12.6, 12.9
+
+```12.6```
+- code: 
+- data: T3_4_DIABETES.dat
+
+```12.9```
+- code: 
+- data: T4_3_HEMATOL.dat
+
+
+### Ques from chapter 13:
+All ques - 13.8 (a), 13.12
+
+```13.8 (a)```
+- code: 
+- data: T3_6_BONE.DAT
+
+```13.12```
+- code: 
+- data: T5_6_PILOT.dat
+
+
 NOTE: The book being used and the notes from the Prof are not shared due to license and copyright issues. Books can be purchased or downloaded by the readers. Details for the same is mentioned within the README.md section in the root folder.

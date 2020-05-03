@@ -72,11 +72,11 @@ All ques - 9.10 (a), (b), (c), (d).
 All ques - 12.6, 12.9
 
 ```12.6```
-- code: 
+- code: PCA on diabetes data.sas
 - data: T3_4_DIABETES.dat
 
 ```12.9```
-- code: 
+- code: PCA on probe word data.sas
 - data: T4_3_HEMATOL.dat
 
 

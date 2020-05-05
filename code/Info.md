@@ -84,11 +84,11 @@ All ques - 12.6, 12.9
 All ques - 13.8 (a), 13.12
 
 ```13.8 (a)```
-- code: 
+- code: Factor Analysis for bone data for n=2.sas
 - data: T3_6_BONE.DAT
 
 ```13.12```
-- code: 
+- code: Factor Analysis for pilot data for n=3.sas
 - data: T5_6_PILOT.dat
 
 

@@ -1,7 +1,7 @@
 DATA work.HEMATOL;
 
   INFILE "/folders/myfolders/data/T4_3_HEMATOL.dat";
-  INPUT OBS Y1 Y2 Y3 Y4 Y5 Y6;
+  INPUT Y1 Y2 Y3 Y4 Y5 Y6;
 
 TITLE "HW6 Q-12.9";
 
